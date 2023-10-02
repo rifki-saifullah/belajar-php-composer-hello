@@ -1,5 +1,5 @@
 {
-  "name": "rifki/belajar-php-composer",
+  "name": "odings21/belajar-php-composer",
   "description": "Libary Composer Hello",
   "type": "library",
   "autoload": {
@@ -9,7 +9,7 @@
   },
   "authors": [
     {
-      "name": "Odings21"
+      "name": "Rifki"
     }
   ],
   "require": {}
